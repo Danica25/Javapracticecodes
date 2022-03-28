@@ -1,2 +1,4 @@
-package com.demo;public class Queuedemo {
+package com.demo;
+
+public class Queuedemo {
 }
